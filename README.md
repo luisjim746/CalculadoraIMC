@@ -7,7 +7,7 @@ Calculadora de IMC ha sido una aplicación que desarrollé para dar mis primeros
 <!-- You can add more screenshots here if you like -->
 <img src="/Result/image1-imc.png" width="260">&emsp;<img src="/Result/image2-imc.png" width="260">&emsp;<img src="/Result/image3-imc.png" width="260">
 
-## Tecnologías
+## Technologies
 * Kotlin
 * Activity para host de pantallas
 * ViewGroup
